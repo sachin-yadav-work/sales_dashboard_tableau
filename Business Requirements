@@ -1,0 +1,65 @@
+Tableau User Story | Sales Performance
+
+Introduction
+This user story outlines the specifications for building two interactive Tableau dashboards to help stakeholders, including sales managers and executives, analyze sales performance and customer behavior.
+
+-------------------------------------------------------
+
+Sales Dashboard | Requirements
+
+Dashboard Purpose
+The Sales Dashboard provides an overview of key sales metrics and trends, enabling stakeholders to analyze year-over-year performance and identify sales patterns.
+
+Key Requirements
+
+KPI Overview
+- Display a summary of total sales, profit, and quantity for the current and previous year.
+
+Sales Trends
+- Present monthly sales trends for each KPI, comparing the current and previous year.
+- Highlight months with the highest and lowest sales for easy recognition.
+
+Product Subcategory Comparison
+- Compare sales performance across different product subcategories for the current and previous year.
+- Include a sales vs. profit comparison for better insights.
+
+Weekly Trends for Sales & Profit
+- Display weekly sales and profit trends for the current year.
+- Show average weekly values as benchmarks.
+- Highlight weeks performing above and below the average to draw attention to trends.
+
+-------------------------------------------------------
+
+Customer Dashboard | Requirements
+
+Dashboard Purpose
+The Customer Dashboard provides an overview of customer trends and behaviors. It helps marketing teams and management understand customer segments and improve engagement and satisfaction.
+
+Key Requirements
+
+KPI Overview
+- Display a summary of total customers, sales per customer, and total orders for the current and previous year.
+
+Customer Trends
+- Track monthly trends for key customer-related metrics, comparing the current and previous year.
+- Highlight months with the highest and lowest sales for easy identification.
+
+Customer Distribution by Number of Orders
+- Analyze customer behavior based on order frequency to gain insights into customer loyalty and engagement.
+
+Top 10 Customers by Profit
+- Display the top 10 customers who have generated the highest profits.
+- Include details such as rank, number of orders, current sales, profit, and last order date.
+
+-------------------------------------------------------
+
+Design & Interactivity Requirements
+
+Dashboard Dynamics
+- Allow users to select historical data for any desired year.
+- Provide seamless navigation between dashboards for better usability.
+- Make charts and graphs interactive, enabling users to filter data through visual elements.
+
+Data Filters
+- Enable filtering by product details (category, subcategory).
+- Allow filtering by location details (region, state, city).
